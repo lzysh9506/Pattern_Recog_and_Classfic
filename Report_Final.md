@@ -17,7 +17,8 @@ The model K-nearest neighbor is representative in simple classifiers, and two ne
 The 20 Newsgroups data set is a collection of approximately 20,000 newsgroup documents, partitioned (nearly) evenly across 20 small newsgroups, and 7large groups.  
 > http://qwone.com/~jason/20Newsgroups/   
 <br>
-Sample:  
+Sample:    
+
 ![Image 1](https://github.com/lzysh9506/Pattern_Recog_and_Classfic/raw/master/Screenshoots/sample1.png)   
 
 ### GloVe Corpora:     
